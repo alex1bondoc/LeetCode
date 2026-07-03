@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/alex1bondoc/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [3941-password-strength](https://github.com/alex1bondoc/LeetCode/tree/master/3941-password-strength) |
+## String
+|  |
+| ------- |
+| [3941-password-strength](https://github.com/alex1bondoc/LeetCode/tree/master/3941-password-strength) |
 <!---LeetCode Topics End-->
