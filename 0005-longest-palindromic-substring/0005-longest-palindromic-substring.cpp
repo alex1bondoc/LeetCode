@@ -1,33 +1,29 @@
 class Solution {
 public:
     string longestPalindrome(string s) {
-        string t{"#"};
-        for (char c : s) {
-            t += c;
-            t += '#';
-        }
-        int n{static_cast<int>(t.size())};
-        int l{}, r{};
-        vector<int> p(n);
+        int res{1};
+        int start{};
+        int n{static_cast<int>(s.size())};
+        vector<vector<int>> dp(n, vector<int>(n));
         for (int i{}; i < n; ++i) {
-            if (i < r) {
-                p[i] = min(r - i, p[l + r - i]);
-            }
-            while (i + p[i] + 1 < n && i - p[i] - 1 >= 0 && t[i + p[i] + 1] == t[i - p[i] - 1]) {
-                p[i]++;
-            }
-            if (i + p[i] > r) {
-                r = i + p[i];
-                l = i - p[i];
+            dp[i][i] = 1;
+            if (i < n - 1) {
+                if (s[i] == s[i + 1]) {
+                    dp[i][i + 1] = 1;
+                    res = 2;
+                    start = i;
+                }
             }
         }
-        int idx{}, maxLen{};
-        for (int i{}; i < n; ++i) {
-            if (p[i] > maxLen) {
-                maxLen = p[i];
-                idx = i;
+        for (int len{3}; len <= n; ++len) {
+            for (int i{}; i <= n - len; ++i) {
+                if (s[i] == s[i + len - 1] && dp[i + 1][i + len - 2]) {
+                    dp[i][i + len - 1] = 1;
+                    res = len;
+                    start = i;
+                }
             }
         }
-        return s.substr((idx - maxLen) / 2, maxLen);
+        return s.substr(start, res);
     }
 };
