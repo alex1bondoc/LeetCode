@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/alex1bondoc/LeetCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/alex1bondoc/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/alex1bondoc/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0152-maximum-product-subarray](https://github.com/alex1bondoc/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Manacher
 |  |
@@ -77,4 +78,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/alex1bondoc/LeetCode/tree/master/0085-maximal-rectangle) |
+## Math
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/alex1bondoc/LeetCode/tree/master/0096-unique-binary-search-trees) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/alex1bondoc/LeetCode/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/alex1bondoc/LeetCode/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/alex1bondoc/LeetCode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
