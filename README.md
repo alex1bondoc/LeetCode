@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/alex1bondoc/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/alex1bondoc/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/alex1bondoc/LeetCode/tree/master/0174-dungeon-game) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/alex1bondoc/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/alex1bondoc/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3975-filter-occupied-intervals](https://github.com/alex1bondoc/LeetCode/tree/master/3975-filter-occupied-intervals) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/alex1bondoc/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/alex1bondoc/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/alex1bondoc/LeetCode/tree/master/0174-dungeon-game) |
 ## Manacher
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/alex1bondoc/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0174-dungeon-game](https://github.com/alex1bondoc/LeetCode/tree/master/0174-dungeon-game) |
 ## Stack
 |  |
 | ------- |
