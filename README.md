@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/alex1bondoc/LeetCode/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0063-unique-paths-ii) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/alex1bondoc/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/alex1bondoc/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3975-filter-occupied-intervals](https://github.com/alex1bondoc/LeetCode/tree/master/3975-filter-occupied-intervals) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/alex1bondoc/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/alex1bondoc/LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/alex1bondoc/LeetCode/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0063-unique-paths-ii) |
 ## Manacher
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/alex1bondoc/LeetCode/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
