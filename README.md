@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/alex1bondoc/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/alex1bondoc/LeetCode/tree/master/0198-house-robber) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/alex1bondoc/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/alex1bondoc/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/alex1bondoc/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/alex1bondoc/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/alex1bondoc/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/alex1bondoc/LeetCode/tree/master/0044-wildcard-matching) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/alex1bondoc/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/alex1bondoc/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Two Pointers
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/alex1bondoc/LeetCode/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/alex1bondoc/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/alex1bondoc/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/alex1bondoc/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Manacher
 |  |
 | ------- |
