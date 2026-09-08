@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/alex1bondoc/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0140-word-break-ii) |
+| [0187-repeated-dna-sequences](https://github.com/alex1bondoc/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [3941-password-strength](https://github.com/alex1bondoc/LeetCode/tree/master/3941-password-strength) |
 ## String
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/alex1bondoc/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0140-word-break-ii) |
+| [0187-repeated-dna-sequences](https://github.com/alex1bondoc/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/alex1bondoc/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [3941-password-strength](https://github.com/alex1bondoc/LeetCode/tree/master/3941-password-strength) |
 ## Dynamic Programming
@@ -167,4 +169,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/alex1bondoc/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/alex1bondoc/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/alex1bondoc/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/alex1bondoc/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/alex1bondoc/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/alex1bondoc/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/alex1bondoc/LeetCode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
