@@ -1,21 +1,20 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        int buy1 = -prices[0];
-        int sell1 = 0;
-        int buy2 = -prices[0];
-        int sell2 = 0;
+        int n = prices.size();
+        vector<vector<int>> dp(n + 1, vector<int>(5, 0));
 
-        for (int i = 1; i < prices.size(); i++) {
-            int price = prices[i];
+        // dp[n][*] = 0 deja, e cazul de bază
 
-            buy1 = max(buy1, -price);
-            sell1 = max(sell1, buy1 + price);
-
-            buy2 = max(buy2, sell1 - price);
-            sell2 = max(sell2, buy2 + price);
+        for (int i = n - 1; i >= 0; --i) {
+            for (int buy = 1; buy <= 4; ++buy) {
+                if (buy == 4 || buy == 2)
+                    dp[i][buy] = max(dp[i + 1][buy], dp[i + 1][buy - 1] - prices[i]);
+                else
+                    dp[i][buy] = max(dp[i + 1][buy], dp[i + 1][buy - 1] + prices[i]);
+            }
         }
 
-        return sell2;
+        return dp[0][4];
     }
 };
