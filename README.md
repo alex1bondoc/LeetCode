@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/alex1bondoc/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/alex1bondoc/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/alex1bondoc/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/alex1bondoc/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/alex1bondoc/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/alex1bondoc/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/alex1bondoc/LeetCode/tree/master/0139-word-break) |
 | [3941-password-strength](https://github.com/alex1bondoc/LeetCode/tree/master/3941-password-strength) |
 ## String
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/alex1bondoc/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/alex1bondoc/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/alex1bondoc/LeetCode/tree/master/0139-word-break) |
 | [3941-password-strength](https://github.com/alex1bondoc/LeetCode/tree/master/3941-password-strength) |
 ## Dynamic Programming
 |  |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/alex1bondoc/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/alex1bondoc/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/alex1bondoc/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/alex1bondoc/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Manacher
 |  |
@@ -126,4 +130,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/alex1bondoc/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/alex1bondoc/LeetCode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/alex1bondoc/LeetCode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/alex1bondoc/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
