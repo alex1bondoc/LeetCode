@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/alex1bondoc/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/alex1bondoc/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/alex1bondoc/LeetCode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/alex1bondoc/LeetCode/tree/master/0115-distinct-subsequences) |
 | [3941-password-strength](https://github.com/alex1bondoc/LeetCode/tree/master/3941-password-strength) |
 ## Dynamic Programming
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/alex1bondoc/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/alex1bondoc/LeetCode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/alex1bondoc/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/alex1bondoc/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Manacher
 |  |
