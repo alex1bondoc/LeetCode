@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/alex1bondoc/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/alex1bondoc/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/alex1bondoc/LeetCode/tree/master/0377-combination-sum-iv) |
+| [0396-rotate-function](https://github.com/alex1bondoc/LeetCode/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/alex1bondoc/LeetCode/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/alex1bondoc/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/alex1bondoc/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/alex1bondoc/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0377-combination-sum-iv](https://github.com/alex1bondoc/LeetCode/tree/master/0377-combination-sum-iv) |
+| [0396-rotate-function](https://github.com/alex1bondoc/LeetCode/tree/master/0396-rotate-function) |
 | [0464-can-i-win](https://github.com/alex1bondoc/LeetCode/tree/master/0464-can-i-win) |
 | [0494-target-sum](https://github.com/alex1bondoc/LeetCode/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/alex1bondoc/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/alex1bondoc/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/alex1bondoc/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0396-rotate-function](https://github.com/alex1bondoc/LeetCode/tree/master/0396-rotate-function) |
 | [0464-can-i-win](https://github.com/alex1bondoc/LeetCode/tree/master/0464-can-i-win) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/alex1bondoc/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Tree
