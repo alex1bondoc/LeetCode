@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/alex1bondoc/LeetCode/tree/master/0044-wildcard-matching) |
+| [0397-integer-replacement](https://github.com/alex1bondoc/LeetCode/tree/master/0397-integer-replacement) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/alex1bondoc/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/alex1bondoc/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Two Pointers
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0377-combination-sum-iv](https://github.com/alex1bondoc/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/alex1bondoc/LeetCode/tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/alex1bondoc/LeetCode/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/alex1bondoc/LeetCode/tree/master/0464-can-i-win) |
 | [0494-target-sum](https://github.com/alex1bondoc/LeetCode/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/alex1bondoc/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/alex1bondoc/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/alex1bondoc/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0397-integer-replacement](https://github.com/alex1bondoc/LeetCode/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/alex1bondoc/LeetCode/tree/master/0464-can-i-win) |
 ## Brute-Force Search
 |  |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/alex1bondoc/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0397-integer-replacement](https://github.com/alex1bondoc/LeetCode/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/alex1bondoc/LeetCode/tree/master/0464-can-i-win) |
 ## Sliding Window
 |  |
