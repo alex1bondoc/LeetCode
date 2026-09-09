@@ -16,7 +16,6 @@ public:
             dp[i][j] = max(dp[i][j], self(self, i - 1, j, val1) + 1);
             dp[i][j] = max(dp[i][j], self(self, i, j + 1, val1) + 1);
             dp[i][j] = max(dp[i][j], self(self, i, j - 1, val1) + 1);
-            cout << matrix[i][j] << " " << dp[i][j] << endl;
             return dp[i][j];
 
         };
