@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/alex1bondoc/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/alex1bondoc/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/alex1bondoc/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0650-2-keys-keyboard](https://github.com/alex1bondoc/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/alex1bondoc/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Manacher
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/alex1bondoc/LeetCode/tree/master/0396-rotate-function) |
 | [0464-can-i-win](https://github.com/alex1bondoc/LeetCode/tree/master/0464-can-i-win) |
 | [0553-optimal-division](https://github.com/alex1bondoc/LeetCode/tree/master/0553-optimal-division) |
+| [0650-2-keys-keyboard](https://github.com/alex1bondoc/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/alex1bondoc/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Tree
 |  |
