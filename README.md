@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/alex1bondoc/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0553-optimal-division](https://github.com/alex1bondoc/LeetCode/tree/master/0553-optimal-division) |
+| [0576-out-of-boundary-paths](https://github.com/alex1bondoc/LeetCode/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/alex1bondoc/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/alex1bondoc/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Manacher
