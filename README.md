@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/alex1bondoc/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/alex1bondoc/LeetCode/tree/master/0526-beautiful-arrangement) |
+| [0553-optimal-division](https://github.com/alex1bondoc/LeetCode/tree/master/0553-optimal-division) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/alex1bondoc/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/alex1bondoc/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/alex1bondoc/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/alex1bondoc/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/alex1bondoc/LeetCode/tree/master/0526-beautiful-arrangement) |
+| [0553-optimal-division](https://github.com/alex1bondoc/LeetCode/tree/master/0553-optimal-division) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/alex1bondoc/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Manacher
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0396-rotate-function](https://github.com/alex1bondoc/LeetCode/tree/master/0396-rotate-function) |
 | [0464-can-i-win](https://github.com/alex1bondoc/LeetCode/tree/master/0464-can-i-win) |
+| [0553-optimal-division](https://github.com/alex1bondoc/LeetCode/tree/master/0553-optimal-division) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/alex1bondoc/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Tree
 |  |
