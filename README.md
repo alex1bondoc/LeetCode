@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/alex1bondoc/LeetCode/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/alex1bondoc/LeetCode/tree/master/0179-largest-number) |
 | [0397-integer-replacement](https://github.com/alex1bondoc/LeetCode/tree/master/0397-integer-replacement) |
+| [0402-remove-k-digits](https://github.com/alex1bondoc/LeetCode/tree/master/0402-remove-k-digits) |
 | [0646-maximum-length-of-pair-chain](https://github.com/alex1bondoc/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/alex1bondoc/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/alex1bondoc/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/alex1bondoc/LeetCode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/alex1bondoc/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/alex1bondoc/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0402-remove-k-digits](https://github.com/alex1bondoc/LeetCode/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/alex1bondoc/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/alex1bondoc/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/alex1bondoc/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -167,10 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/alex1bondoc/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/alex1bondoc/LeetCode/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/alex1bondoc/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/alex1bondoc/LeetCode/tree/master/0402-remove-k-digits) |
 ## Math
 |  |
 | ------- |
