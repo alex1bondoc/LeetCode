@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/alex1bondoc/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/alex1bondoc/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/alex1bondoc/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/alex1bondoc/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/alex1bondoc/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/alex1bondoc/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/alex1bondoc/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/alex1bondoc/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/alex1bondoc/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/alex1bondoc/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Manacher
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0140-word-break-ii) |
 | [0473-matchsticks-to-square](https://github.com/alex1bondoc/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/alex1bondoc/LeetCode/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/alex1bondoc/LeetCode/tree/master/0526-beautiful-arrangement) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/alex1bondoc/LeetCode/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/alex1bondoc/LeetCode/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/alex1bondoc/LeetCode/tree/master/0473-matchsticks-to-square) |
+| [0526-beautiful-arrangement](https://github.com/alex1bondoc/LeetCode/tree/master/0526-beautiful-arrangement) |
 ## Sliding Window
 |  |
 | ------- |
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0464-can-i-win](https://github.com/alex1bondoc/LeetCode/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/alex1bondoc/LeetCode/tree/master/0473-matchsticks-to-square) |
+| [0526-beautiful-arrangement](https://github.com/alex1bondoc/LeetCode/tree/master/0526-beautiful-arrangement) |
 ## Knapsack Problem
 |  |
 | ------- |
