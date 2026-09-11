@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/alex1bondoc/LeetCode/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/alex1bondoc/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/alex1bondoc/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1207-unique-number-of-occurrences](https://github.com/alex1bondoc/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/alex1bondoc/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/alex1bondoc/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/alex1bondoc/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/alex1bondoc/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0140-word-break-ii) |
 | [0187-repeated-dna-sequences](https://github.com/alex1bondoc/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [1207-unique-number-of-occurrences](https://github.com/alex1bondoc/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/alex1bondoc/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3941-password-strength](https://github.com/alex1bondoc/LeetCode/tree/master/3941-password-strength) |
 ## String
