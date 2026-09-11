@@ -11,7 +11,7 @@ public:
                 flowerbed[i] = 1;
                 if (n == 0) return true;
             } 
-            cout << prev << " " << next << endl;
+
         }
         return false;
     }
