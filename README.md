@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/alex1bondoc/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/alex1bondoc/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/alex1bondoc/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/alex1bondoc/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/alex1bondoc/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/alex1bondoc/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0394-decode-string](https://github.com/alex1bondoc/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/alex1bondoc/LeetCode/tree/master/0402-remove-k-digits) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/alex1bondoc/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -391,4 +393,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/alex1bondoc/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/alex1bondoc/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
