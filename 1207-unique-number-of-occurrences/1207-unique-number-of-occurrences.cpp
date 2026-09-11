@@ -7,7 +7,7 @@ public:
             cnt[num] ++;
         }
         for (const auto& [key, val] : cnt) {
-            if (c.find(val) != c.end()) return false;
+            if (c.count(val)) return false;
             c.insert(val);
         }
         return true;
