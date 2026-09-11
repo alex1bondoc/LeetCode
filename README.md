@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/alex1bondoc/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/alex1bondoc/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/alex1bondoc/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0394-decode-string](https://github.com/alex1bondoc/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/alex1bondoc/LeetCode/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/alex1bondoc/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/alex1bondoc/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/alex1bondoc/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/alex1bondoc/LeetCode/tree/master/0044-wildcard-matching) |
 | [0241-different-ways-to-add-parentheses](https://github.com/alex1bondoc/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0394-decode-string](https://github.com/alex1bondoc/LeetCode/tree/master/0394-decode-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/alex1bondoc/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0394-decode-string](https://github.com/alex1bondoc/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/alex1bondoc/LeetCode/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
 |  |
