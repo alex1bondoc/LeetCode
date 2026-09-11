@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/alex1bondoc/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/alex1bondoc/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/alex1bondoc/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/alex1bondoc/LeetCode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/alex1bondoc/LeetCode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/alex1bondoc/LeetCode/tree/master/0872-leaf-similar-trees) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/alex1bondoc/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/alex1bondoc/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/alex1bondoc/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/alex1bondoc/LeetCode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/alex1bondoc/LeetCode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/alex1bondoc/LeetCode/tree/master/0872-leaf-similar-trees) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/alex1bondoc/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/alex1bondoc/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/alex1bondoc/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/alex1bondoc/LeetCode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/alex1bondoc/LeetCode/tree/master/0437-path-sum-iii) |
@@ -416,4 +419,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/alex1bondoc/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/alex1bondoc/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/alex1bondoc/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/alex1bondoc/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
