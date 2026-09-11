@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/alex1bondoc/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/alex1bondoc/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/alex1bondoc/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/alex1bondoc/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/alex1bondoc/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Manacher
 |  |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/alex1bondoc/LeetCode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/alex1bondoc/LeetCode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/alex1bondoc/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/alex1bondoc/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/alex1bondoc/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/alex1bondoc/LeetCode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/alex1bondoc/LeetCode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/alex1bondoc/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/alex1bondoc/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/alex1bondoc/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Backtracking
 |  |
@@ -257,12 +260,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/alex1bondoc/LeetCode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/alex1bondoc/LeetCode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/alex1bondoc/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/alex1bondoc/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/alex1bondoc/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/alex1bondoc/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/alex1bondoc/LeetCode/tree/master/0337-house-robber-iii) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/alex1bondoc/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Trie
 |  |
 | ------- |
