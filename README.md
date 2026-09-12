@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/alex1bondoc/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/alex1bondoc/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/alex1bondoc/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0790-domino-and-tromino-tiling](https://github.com/alex1bondoc/LeetCode/tree/master/0790-domino-and-tromino-tiling) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/alex1bondoc/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/alex1bondoc/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2560-house-robber-iv](https://github.com/alex1bondoc/LeetCode/tree/master/2560-house-robber-iv) |
