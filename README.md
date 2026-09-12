@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/alex1bondoc/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/alex1bondoc/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/alex1bondoc/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/alex1bondoc/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/alex1bondoc/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2560-house-robber-iv](https://github.com/alex1bondoc/LeetCode/tree/master/2560-house-robber-iv) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/alex1bondoc/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/alex1bondoc/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/alex1bondoc/LeetCode/tree/master/0174-dungeon-game) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/alex1bondoc/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/alex1bondoc/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/alex1bondoc/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 ## Stack
 |  |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/alex1bondoc/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/alex1bondoc/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/alex1bondoc/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/alex1bondoc/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Graph Theory
 |  |
 | ------- |
