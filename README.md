@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/alex1bondoc/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/alex1bondoc/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/alex1bondoc/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1268-search-suggestions-system](https://github.com/alex1bondoc/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/alex1bondoc/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/alex1bondoc/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/alex1bondoc/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/alex1bondoc/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0354-russian-doll-envelopes](https://github.com/alex1bondoc/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/alex1bondoc/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [1268-search-suggestions-system](https://github.com/alex1bondoc/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1657-determine-if-two-strings-are-close](https://github.com/alex1bondoc/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/alex1bondoc/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/alex1bondoc/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/alex1bondoc/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/alex1bondoc/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/alex1bondoc/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1268-search-suggestions-system](https://github.com/alex1bondoc/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/alex1bondoc/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/alex1bondoc/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [3941-password-strength](https://github.com/alex1bondoc/LeetCode/tree/master/3941-password-strength) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/alex1bondoc/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0354-russian-doll-envelopes](https://github.com/alex1bondoc/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0875-koko-eating-bananas](https://github.com/alex1bondoc/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1268-search-suggestions-system](https://github.com/alex1bondoc/LeetCode/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/alex1bondoc/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2560-house-robber-iv](https://github.com/alex1bondoc/LeetCode/tree/master/2560-house-robber-iv) |
 ## Binary Tree
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/alex1bondoc/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0140-word-break-ii) |
+| [1268-search-suggestions-system](https://github.com/alex1bondoc/LeetCode/tree/master/1268-search-suggestions-system) |
 ## Memoization
 |  |
 | ------- |
@@ -473,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/alex1bondoc/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1268-search-suggestions-system](https://github.com/alex1bondoc/LeetCode/tree/master/1268-search-suggestions-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/alex1bondoc/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Quickselect
 |  |
