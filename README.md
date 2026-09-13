@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/alex1bondoc/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/alex1bondoc/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/alex1bondoc/LeetCode/tree/master/0396-rotate-function) |
+| [0435-non-overlapping-intervals](https://github.com/alex1bondoc/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/alex1bondoc/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/alex1bondoc/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0518-coin-change-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/alex1bondoc/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/alex1bondoc/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0354-russian-doll-envelopes](https://github.com/alex1bondoc/LeetCode/tree/master/0354-russian-doll-envelopes) |
+| [0435-non-overlapping-intervals](https://github.com/alex1bondoc/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/alex1bondoc/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1268-search-suggestions-system](https://github.com/alex1bondoc/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1657-determine-if-two-strings-are-close](https://github.com/alex1bondoc/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/alex1bondoc/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0397-integer-replacement](https://github.com/alex1bondoc/LeetCode/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/alex1bondoc/LeetCode/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/alex1bondoc/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/alex1bondoc/LeetCode/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/alex1bondoc/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/alex1bondoc/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/alex1bondoc/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/alex1bondoc/LeetCode/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/alex1bondoc/LeetCode/tree/master/0397-integer-replacement) |
+| [0435-non-overlapping-intervals](https://github.com/alex1bondoc/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0464-can-i-win](https://github.com/alex1bondoc/LeetCode/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/alex1bondoc/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/alex1bondoc/LeetCode/tree/master/0494-target-sum) |
