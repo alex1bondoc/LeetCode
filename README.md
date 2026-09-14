@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/alex1bondoc/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/alex1bondoc/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0140-word-break-ii) |
+| [0146-lru-cache](https://github.com/alex1bondoc/LeetCode/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/alex1bondoc/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/alex1bondoc/LeetCode/tree/master/0202-happy-number) |
 | [0930-binary-subarrays-with-sum](https://github.com/alex1bondoc/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/alex1bondoc/LeetCode/tree/master/0146-lru-cache) |
 | [0901-online-stock-span](https://github.com/alex1bondoc/LeetCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/alex1bondoc/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/alex1bondoc/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/alex1bondoc/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0146-lru-cache](https://github.com/alex1bondoc/LeetCode/tree/master/0146-lru-cache) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/alex1bondoc/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/alex1bondoc/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Lifting
@@ -545,4 +548,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/alex1bondoc/LeetCode/tree/master/0202-happy-number) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/alex1bondoc/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
