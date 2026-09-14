@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/alex1bondoc/LeetCode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/alex1bondoc/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/alex1bondoc/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0274-h-index](https://github.com/alex1bondoc/LeetCode/tree/master/0274-h-index) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/alex1bondoc/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/alex1bondoc/LeetCode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/alex1bondoc/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/alex1bondoc/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/alex1bondoc/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/alex1bondoc/LeetCode/tree/master/0274-h-index) |
 | [0354-russian-doll-envelopes](https://github.com/alex1bondoc/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/alex1bondoc/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/alex1bondoc/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -502,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/alex1bondoc/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/alex1bondoc/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
