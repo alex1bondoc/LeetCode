@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/alex1bondoc/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0076-minimum-window-substring](https://github.com/alex1bondoc/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/alex1bondoc/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0140-word-break-ii) |
 | [0187-repeated-dna-sequences](https://github.com/alex1bondoc/LeetCode/tree/master/0187-repeated-dna-sequences) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/alex1bondoc/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0044-wildcard-matching](https://github.com/alex1bondoc/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/alex1bondoc/LeetCode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/alex1bondoc/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/alex1bondoc/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/alex1bondoc/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/alex1bondoc/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/alex1bondoc/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/alex1bondoc/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0930-binary-subarrays-with-sum](https://github.com/alex1bondoc/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/alex1bondoc/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
