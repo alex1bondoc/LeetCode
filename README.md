@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/alex1bondoc/LeetCode/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/alex1bondoc/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/alex1bondoc/LeetCode/tree/master/0054-spiral-matrix) |
+| [0057-insert-interval](https://github.com/alex1bondoc/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/alex1bondoc/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0119-pascals-triangle-ii) |
