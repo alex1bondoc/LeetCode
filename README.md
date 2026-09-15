@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/alex1bondoc/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/alex1bondoc/LeetCode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/alex1bondoc/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0909-snakes-and-ladders](https://github.com/alex1bondoc/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0930-binary-subarrays-with-sum](https://github.com/alex1bondoc/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/alex1bondoc/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/alex1bondoc/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/alex1bondoc/LeetCode/tree/master/0174-dungeon-game) |
 | [0289-game-of-life](https://github.com/alex1bondoc/LeetCode/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/alex1bondoc/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0909-snakes-and-ladders](https://github.com/alex1bondoc/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/alex1bondoc/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/alex1bondoc/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 ## Stack
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/alex1bondoc/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/alex1bondoc/LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/alex1bondoc/LeetCode/tree/master/0841-keys-and-rooms) |
+| [0909-snakes-and-ladders](https://github.com/alex1bondoc/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/alex1bondoc/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/alex1bondoc/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/alex1bondoc/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
