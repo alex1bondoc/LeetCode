@@ -11,27 +11,20 @@
  */
 class Solution {
 public:
-    TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        int i{}, j{}, n = preorder.size();
-        auto head = new TreeNode{};
-        auto node = head;
-        while (i < n && j < n) {
-            node->right = new TreeNode(preorder[i], nullptr, node->right);
-            node = node->right;
-            i ++;
-            while (i < n && node->val != inorder[j]) {
-                node->left = new TreeNode{preorder[i], nullptr, node};
-                node = node->left;
+     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
+        int n{static_cast<int>(preorder.size())};
+        int p{}, i{};
+        auto dfs = [&](auto self, int limit) -> TreeNode*{
+            if (p >= n) return nullptr;
+            if (limit == inorder[i]) {
                 i++;
+                return nullptr;
             }
-            j ++;
-            while (j < n && node->right && node->right->val == inorder[j]) {
-                auto help = node->right;
-                node->right = nullptr;
-                j++;
-                node = help;
-            }
-        }
-        return head->right;
-    }
+            auto root = new TreeNode(preorder[p++]);
+            root->left = self(self, root->val);
+            root->right = self(self, limit);
+            return root;
+        };
+        return dfs(dfs, INT_MAX);
+     }
 };
