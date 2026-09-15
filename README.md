@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/alex1bondoc/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/alex1bondoc/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/alex1bondoc/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/alex1bondoc/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/alex1bondoc/LeetCode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/alex1bondoc/LeetCode/tree/master/0437-path-sum-iii) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/alex1bondoc/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0173-binary-search-tree-iterator](https://github.com/alex1bondoc/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/alex1bondoc/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0354-russian-doll-envelopes](https://github.com/alex1bondoc/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0875-koko-eating-bananas](https://github.com/alex1bondoc/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1268-search-suggestions-system](https://github.com/alex1bondoc/LeetCode/tree/master/1268-search-suggestions-system) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/alex1bondoc/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/alex1bondoc/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/alex1bondoc/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/alex1bondoc/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/alex1bondoc/LeetCode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/alex1bondoc/LeetCode/tree/master/0437-path-sum-iii) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/alex1bondoc/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0222-count-complete-tree-nodes](https://github.com/alex1bondoc/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0397-integer-replacement](https://github.com/alex1bondoc/LeetCode/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/alex1bondoc/LeetCode/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/alex1bondoc/LeetCode/tree/master/0473-matchsticks-to-square) |
