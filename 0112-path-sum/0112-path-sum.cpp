@@ -1,25 +1,19 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
     bool hasPathSum(TreeNode* root, int targetSum) {
-        if (!root) {
-            return false;
+        stack<pair<TreeNode*, int>> st;
+        if (root) st.push({root, 0});
+        while (st.size()) {
+            auto [node, s] = st.top();
+            st.pop();
+            s += node->val;
+            if (!node->left && !node->right) {      // frunză: aici se verifică
+                if (s == targetSum) return true;
+                continue;
+            }
+            if (node->left)  st.push({node->left, s});
+            if (node->right) st.push({node->right, s});
         }
-        if (!root->left && !root->right) {
-            return root->val == targetSum;
-        }
-        else {
-            return hasPathSum(root->left, targetSum - root->val) || hasPathSum(root->right, targetSum - root->val);
-        }
+        return false;
     }
 };
