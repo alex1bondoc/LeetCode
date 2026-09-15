@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/alex1bondoc/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/alex1bondoc/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/alex1bondoc/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0174-dungeon-game](https://github.com/alex1bondoc/LeetCode/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/alex1bondoc/LeetCode/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/alex1bondoc/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/alex1bondoc/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/alex1bondoc/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0173-binary-search-tree-iterator](https://github.com/alex1bondoc/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/alex1bondoc/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/alex1bondoc/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
