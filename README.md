@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/alex1bondoc/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0473-matchsticks-to-square](https://github.com/alex1bondoc/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/alex1bondoc/LeetCode/tree/master/0494-target-sum) |
+| [0502-ipo](https://github.com/alex1bondoc/LeetCode/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/alex1bondoc/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0553-optimal-division](https://github.com/alex1bondoc/LeetCode/tree/master/0553-optimal-division) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/alex1bondoc/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/alex1bondoc/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/alex1bondoc/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/alex1bondoc/LeetCode/tree/master/0502-ipo) |
 | [0646-maximum-length-of-pair-chain](https://github.com/alex1bondoc/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1268-search-suggestions-system](https://github.com/alex1bondoc/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1657-determine-if-two-strings-are-close](https://github.com/alex1bondoc/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/alex1bondoc/LeetCode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/alex1bondoc/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/alex1bondoc/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/alex1bondoc/LeetCode/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/alex1bondoc/LeetCode/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/alex1bondoc/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/alex1bondoc/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/alex1bondoc/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/alex1bondoc/LeetCode/tree/master/0502-ipo) |
 | [1268-search-suggestions-system](https://github.com/alex1bondoc/LeetCode/tree/master/1268-search-suggestions-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/alex1bondoc/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Quickselect
