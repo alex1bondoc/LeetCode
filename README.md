@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/alex1bondoc/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/alex1bondoc/LeetCode/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0275-h-index-ii) |
 | [0289-game-of-life](https://github.com/alex1bondoc/LeetCode/tree/master/0289-game-of-life) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/alex1bondoc/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/alex1bondoc/LeetCode/tree/master/0312-burst-balloons) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/alex1bondoc/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0240-search-a-2d-matrix-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/alex1bondoc/LeetCode/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0275-h-index-ii) |
 | [0354-russian-doll-envelopes](https://github.com/alex1bondoc/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/alex1bondoc/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0875-koko-eating-bananas](https://github.com/alex1bondoc/LeetCode/tree/master/0875-koko-eating-bananas) |
