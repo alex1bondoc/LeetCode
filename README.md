@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/alex1bondoc/LeetCode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/alex1bondoc/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/alex1bondoc/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/alex1bondoc/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/alex1bondoc/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/alex1bondoc/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/alex1bondoc/LeetCode/tree/master/0396-rotate-function) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/alex1bondoc/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/alex1bondoc/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/alex1bondoc/LeetCode/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/alex1bondoc/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/alex1bondoc/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/alex1bondoc/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/alex1bondoc/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0202-happy-number](https://github.com/alex1bondoc/LeetCode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/alex1bondoc/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/alex1bondoc/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0647-palindromic-substrings](https://github.com/alex1bondoc/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/alex1bondoc/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/alex1bondoc/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/alex1bondoc/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/alex1bondoc/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/alex1bondoc/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/alex1bondoc/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0433-minimum-genetic-mutation](https://github.com/alex1bondoc/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0930-binary-subarrays-with-sum](https://github.com/alex1bondoc/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/alex1bondoc/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/alex1bondoc/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/alex1bondoc/LeetCode/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/alex1bondoc/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/alex1bondoc/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/alex1bondoc/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0875-koko-eating-bananas](https://github.com/alex1bondoc/LeetCode/tree/master/0875-koko-eating-bananas) |
