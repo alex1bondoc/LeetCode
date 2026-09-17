@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/alex1bondoc/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/alex1bondoc/LeetCode/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/alex1bondoc/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/alex1bondoc/LeetCode/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/alex1bondoc/LeetCode/tree/master/0289-game-of-life) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/alex1bondoc/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/alex1bondoc/LeetCode/tree/master/0015-3sum) |
 | [0179-largest-number](https://github.com/alex1bondoc/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/alex1bondoc/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/alex1bondoc/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/alex1bondoc/LeetCode/tree/master/0274-h-index) |
 | [0354-russian-doll-envelopes](https://github.com/alex1bondoc/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/alex1bondoc/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/alex1bondoc/LeetCode/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/alex1bondoc/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/alex1bondoc/LeetCode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/alex1bondoc/LeetCode/tree/master/0268-missing-number) |
 | [0433-minimum-genetic-mutation](https://github.com/alex1bondoc/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0930-binary-subarrays-with-sum](https://github.com/alex1bondoc/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/alex1bondoc/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/alex1bondoc/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/alex1bondoc/LeetCode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/alex1bondoc/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0268-missing-number](https://github.com/alex1bondoc/LeetCode/tree/master/0268-missing-number) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0396-rotate-function](https://github.com/alex1bondoc/LeetCode/tree/master/0396-rotate-function) |
 | [0464-can-i-win](https://github.com/alex1bondoc/LeetCode/tree/master/0464-can-i-win) |
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/alex1bondoc/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/alex1bondoc/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0240-search-a-2d-matrix-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/alex1bondoc/LeetCode/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/alex1bondoc/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/alex1bondoc/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0875-koko-eating-bananas](https://github.com/alex1bondoc/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -436,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/alex1bondoc/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/alex1bondoc/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/alex1bondoc/LeetCode/tree/master/0268-missing-number) |
 | [0397-integer-replacement](https://github.com/alex1bondoc/LeetCode/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/alex1bondoc/LeetCode/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/alex1bondoc/LeetCode/tree/master/0473-matchsticks-to-square) |
