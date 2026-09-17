@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/alex1bondoc/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/alex1bondoc/LeetCode/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/alex1bondoc/LeetCode/tree/master/0278-first-bad-version) |
 | [0354-russian-doll-envelopes](https://github.com/alex1bondoc/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/alex1bondoc/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0875-koko-eating-bananas](https://github.com/alex1bondoc/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -650,4 +651,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/alex1bondoc/LeetCode/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/alex1bondoc/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/alex1bondoc/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
