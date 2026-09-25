@@ -1,28 +1,17 @@
 class Solution {
 public:
-    long long countIntersectingIntervals(vector<vector<int>>& intervals) {
-        int n = intervals.size();
-
-        vector<int> s, e;
-
-        for (auto &x : intervals) {
-            s.push_back(x[0]);
-            e.push_back(x[1]);
+    long long countIntersectingIntervals(vector<vector<int>>& I) {
+        const int n=I.size();
+        sort(I.begin(), I.end());
+        long long cnt=0;
+        for(int i=0; i<n; i++){
+            int b=I[i][1];
+            int j=upper_bound(I.begin()+i+1, I.end(), b, 
+            []( int val, const vector<int>& seg){
+                return val<seg[0];
+            })-I.begin();
+            cnt+=j-i-1;
         }
-
-        sort(s.begin(), s.end());
-        sort(e.begin(), e.end());
-
-        long long res = 0;
-        int j = 0;
-
-        for (int i = 0; i < n; i++) {
-            while (j < n && e[j] < s[i])
-                j++;
-
-            res += (i - j);
-        }
-
-        return res;
+        return cnt;
     }
 };
